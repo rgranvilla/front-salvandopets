@@ -1,9 +1,8 @@
 function App() {
   return (
     <>
-      <h1>Hello Backoffice</h1>
+      <h1 className="underline">Hello Backoffice</h1>
       <p>Hi Changeset!</p>
-      <li>Primeiro commit</li>
     </>
   );
 }
